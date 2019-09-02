@@ -11,7 +11,7 @@ class MainPage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
-        backgroundColor: Colors.teal[200],
+        backgroundColor: Colors.teal[400],
         title: Text(
           'Chemistry Jokes',
           style: TextStyle(
